@@ -1,0 +1,11 @@
+{
+  "name": "micro-cookies-router",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brandon Burroughs <blburroughs@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cookies": "^0.7.1",
+    "micro": "^9.3.2"
+  }
+}
